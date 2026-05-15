@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+
+# CMake build directories
+out/
+build/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.obj
+*.lib
+*.dll
+*.pdb
+*.ilk
+
+# Temporary tape files
+tmp/*
+!tmp/.gitkeep
+
+# User-specific files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Binary tape files
+bin/*
+!bin/.gitkeep
+
+# Generated text output
+txt/output.txt

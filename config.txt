@@ -1,0 +1,6 @@
+read_delay_ms = 10
+write_delay_ms = 10
+move_delay_ms = 5
+rewind_delay_ms = 10
+memory_limit_bytes = 12
+verbose = false
